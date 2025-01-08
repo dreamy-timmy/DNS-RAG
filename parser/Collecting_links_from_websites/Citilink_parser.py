@@ -38,7 +38,7 @@ for page_num in range(1, 22):  # От 1 до 22
     for link in links:
         product_page_url = link.get('href')
         if product_page_url:
-            full_url = "https://www.citilink.ru" + product_page_url + "properties/"  # Преобразуем относительную ссылку в абсолютную
+            full_url = "https://www.citilink.ru" + product_page_url  # Преобразуем относительную ссылку в абсолютную
             product_urls.append(full_url)
 
     print(f"Парсинг страницы {page_num} завершен. Перехожу к следующей.")
