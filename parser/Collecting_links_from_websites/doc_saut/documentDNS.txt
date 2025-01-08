@@ -1,0 +1,8 @@
+Для перемещения между страницами к категории ноутбук нужно менять значение "p" от 1 до 57 
+https://www.dns-shop.ru/catalog/17a892f816404e77/noutbuki/?p=1
+
+На страинице сайта нас интересует ссылки на карточки
+<a class="catalog-product__name ui-link ui-link_black" href="/product/48b658653727ed20/141-noutbuk-dexp-aquilon-serebristyj/">
+    <span>14.1" Ноутбук DEXP Aquilon серебристый [английская/русская раскладка, 1920x1080, IPS, Intel Celeron N4020C, ядра: 2 х 1.1 ГГц, RAM 8 ГБ, SSD 256 ГБ, Intel UHD Graphics 600, Windows 11 Home]
+    </span>
+</a>
