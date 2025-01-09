@@ -92,10 +92,10 @@ with open('parser\File_save\citilink_product_urls.txt', 'r', encoding='utf-8') a
     links = [line.strip() for line in file]
 target_class = "app-catalog-rxgulu e1ht5hpa6"
 
-count = 1
+count = 100
 len_links = len(links)
 # Вызов функции
-for url in links[count:12]:
+for url in links:
     save_html_element(url + "properties/", target_class)
     print(f"\/\Обработано ссылок {count}\{len_links}")
     if count%10==0:
@@ -107,4 +107,4 @@ for url in links[count:12]:
 
 with open('parser\laptop_specifications\citilink_product_data.json', 'w', encoding='utf-8') as f:
     json.dump(product_data, f, ensure_ascii=False, indent=4)
-    
+
