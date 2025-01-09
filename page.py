@@ -14,7 +14,7 @@ if prompt := st.chat_input('Введите запрос:'):
     #llm_instance = LLM()
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.chat_message("user").write(prompt)
-    response = ''#llm_instance.prompt(user_input)  
+    response = ''#llm_instance.prompt(prompt)  
     msg = 'Ответ'#response. ?
     st.session_state.messages.append({"role": "assistant", "content": msg})
     st.chat_message("assistant").write(msg)
