@@ -4,10 +4,12 @@ from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from bs4 import BeautifulSoup
 
+from open_json import append_to_json
+
 import time
 import random
 import json
-import time
+import requests  # Для обработки ошибок 429
 
 # Функция для сохранения HTML-кода элемента с заданным классом
 def save_html_element(url, target_class):
@@ -42,15 +44,20 @@ def save_html_element(url, target_class):
             parse_html_file(target_element, price, url)
         else:
             print(f"Элемент с классом '{target_class}' не найден.")
+        
+        # Закрытие драйвера после выполнения
+        driver.quit()
+
+    except Exception as e:
+        print(f"Произошла ошибка при парсинге страницы: {e}")
+        driver.quit()
 
     finally:
         # Время выполнения
         end_time = time.time()
         print(f"Время выполнения: {end_time - start_time:.4f} секунд")
-        driver.quit()
 
 def parse_html_file(soup, price, url):
-
     items = soup.find_all('li', class_="app-catalog-10ib5jr e1fzyj0h0")
     
     dicrt_h4 = {}
@@ -64,7 +71,7 @@ def parse_html_file(soup, price, url):
         for div_parameter in parameters:
             span_parameter = div_parameter.find('span', class_="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0")
             if span_parameter:
-                parameter_text = span_parameter .text.strip()
+                parameter_text = span_parameter.text.strip()
 
             meaning = div_parameter.find('span', class_="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0")
             if meaning:
@@ -72,7 +79,6 @@ def parse_html_file(soup, price, url):
                 parameters_and_meanings[parameter_text] = meaning_text    
 
         # Сохраняем данные в словарь
-        
         h4_text = h4.text.strip()
         dicrt_h4["Цена"] = price.text.strip()
         dicrt_h4[h4_text] = parameters_and_meanings
@@ -80,31 +86,47 @@ def parse_html_file(soup, price, url):
     product_data.append({
         url: dicrt_h4,
     })    
-    
-    
+
+def make_request_with_retries(url, retries=5, delay=30):
+    """
+    Функция для обработки ошибки 429 и повторного запроса с задержкой
+    """
+    attempt = 0
+    while attempt < retries:
+        try:
+            response = requests.get(url)
+            if response.status_code == 429:
+                print(f"Ошибка 429 на странице {url}, задержка {delay} секунд")
+                time.sleep(delay)
+                attempt += 1
+                continue
+            elif response.status_code != 200:
+                print(f"Ошибка {response.status_code}: Не удалось загрузить страницу {url}")
+                break
+            return response
+        except requests.exceptions.RequestException as e:
+            print(f"Ошибка подключения: {e}")
+            time.sleep(delay)
+            attempt += 1
+    return None
 
 # URL и параметры
 links = []
 product_data = []
 
-# Открытие файла в режиме чтения
-with open('parser\File_save\citilink_product_urls.txt', 'r', encoding='utf-8') as file:
+# Открытие файла с ссылками
+with open('parser/File_save/citilink_product_urls.txt', 'r', encoding='utf-8') as file:
     links = [line.strip() for line in file]
 target_class = "app-catalog-rxgulu e1ht5hpa6"
 
 count = 1
 len_links = len(links)
 # Вызов функции
-for url in links[count:12]:
+for url in links[count-1:1001]:
     save_html_element(url + "properties/", target_class)
     print(f"\/\Обработано ссылок {count}\{len_links}")
     if count%10==0:
         print(f"+--------------------+--------------------+--------------------+Прошёл границу в {count}+--------------------+--------------------+--------------------+")
-        with open('parser\laptop_specifications\citilink_product_data.json', 'w', encoding='utf-8') as f:
-            json.dump(product_data, f, ensure_ascii=False, indent=4)
+        append_to_json('parser\laptop_specifications\citilink_product_data.json', product_data)
         product_data = []
     count+=1
-
-with open('parser\laptop_specifications\citilink_product_data.json', 'w', encoding='utf-8') as f:
-    json.dump(product_data, f, ensure_ascii=False, indent=4)
-    
