@@ -1,0 +1,679 @@
+<span class="e1j9birj0 e106ikdt0 app-catalog-8hy98m e1gjr6xo0" color="None">62 990</span>
+
+<ul class="app-catalog-rxgulu e1ht5hpa6">
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Основные характеристики</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Тип</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>Ноутбук </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Бренд</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>ASUS </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Модель</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>X1502ZA-BQ2345
+                </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Экран ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Диагональ
+                        экрана в</span><span class="app-catalog-1baulvz e1ht5hpa2"> дюймах<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>15.6 "</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Разрешение</span><span class="app-catalog-1baulvz e1ht5hpa2"> экрана<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1920х1080 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Частота
+                        обновления</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>60 Гц</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Разрешение
+                        матрицы экрана</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>FHD </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Яркость</span><span class="app-catalog-1baulvz e1ht5hpa2"> экрана<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>250 кд/м2</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Поверхность</span><span class="app-catalog-1baulvz e1ht5hpa2"> экрана<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>матовая </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Тип
+                        матрицы</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>IPS </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Тип матрицы
+                        маркетинговый</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>IPS </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Режим
+                        защиты зрения</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>есть </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Угол
+                        обзора</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>178 °</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Относительная площадь</span><span class="app-catalog-1baulvz e1ht5hpa2">
+                        экрана<button class="app-catalog-zuuz61 eejma9o0"><span
+                                class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>82 %</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Соотношение
+                        сторон</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>16:9 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Цветовой
+                        охват NTSC</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>45 %</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Функция
+                        "Мультиэкран"</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>есть </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Оперативная память</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Оперативная</span><span class="app-catalog-1baulvz e1ht5hpa2"> память<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>16 ГБ, DDR4 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Макс. объем
+                        оперативной</span><span class="app-catalog-1baulvz e1ht5hpa2"> памяти<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>16 ГБ</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        слотов оперативной</span><span class="app-catalog-1baulvz e1ht5hpa2"> памяти<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        свободных слотов оперативной</span><span class="app-catalog-1baulvz e1ht5hpa2"> памяти<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>0 шт</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        занятых слотов оперативной</span><span class="app-catalog-1baulvz e1ht5hpa2"> памяти<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1 шт</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Распаянная
+                        оперативная память</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>да </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Возможность
+                        апгрейда оперативной памяти</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>нет </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Устройства хранения данных</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Объем</span><span class="app-catalog-1baulvz e1ht5hpa2"> SSD<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>512 ГБ </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Конфигурация установленного SSD</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>PCI-E 3.0 x4 M.2 2280
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Возможность
+                        апгрейда HDD/SSD</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>нет </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        разъемов жесткого диска</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1 шт</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        свободных разъемов жесткого диска</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>0 шт</span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Графические параметры</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Тип
+                        графического</span><span class="app-catalog-1baulvz e1ht5hpa2"> процессора<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>интегрированный
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Графический</span><span class="app-catalog-1baulvz e1ht5hpa2"> процессор<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>Intel Iris Xe graphics
+                </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Процессор</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Процессор</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>Intel Core i7 12700H
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Процессор,</span><span class="app-catalog-1baulvz e1ht5hpa2"> частота<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>2.3 ГГц (4.7 ГГц, в режиме
+                    Turbo) </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        ядер</span><span class="app-catalog-1baulvz e1ht5hpa2"> процессора<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>14-ядерный </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Максимальное число потоков</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>20 шт</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        энергоэффективных ядер</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>8 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        высокопроизводительных ядер</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>6 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Объем кэша
+                        L2</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>11.5 МБ</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Объем кэша
+                        L3</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>24 МБ</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Техпроцесс</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>Intel 7 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Ядро
+                        процессора</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>Alder Lake </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Коммуникации ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Поддержка
+                        технологии</span><span class="app-catalog-1baulvz e1ht5hpa2"> Wi-Fi<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>есть, 802.11 a/b/g/n/ac/ax
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Поддержка
+                        технологии</span><span class="app-catalog-1baulvz e1ht5hpa2"> Bluetooth<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>есть, v5.3 </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Разъемы и интерфейсы ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Порты USB
+                        2.0 (Type-A)</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>1 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Порты USB
+                        3.0</span><span class="app-catalog-1baulvz e1ht5hpa2"> (Type-A)<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>2 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Макс.
+                        скорость передачи данных</span><span class="app-catalog-1baulvz e1ht5hpa2"> (Type-A)<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>5 Гбит/с</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Порты USB
+                        3.0</span><span class="app-catalog-1baulvz e1ht5hpa2"> (Type-C)<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Макс.
+                        скорость передачи данных</span><span class="app-catalog-1baulvz e1ht5hpa2"> (Type-C)<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>5 Гбит/с</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Разъем</span><span class="app-catalog-1baulvz e1ht5hpa2"> HDMI<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1 </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Версия
+                        HDMI</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>1.4 </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Операционная система ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Операционная система</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>без операционной системы
+                </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Назначение</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Для
+                        учебы</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>да </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Для
+                        работы</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>да </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Мультимедийные особенности</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="app-catalog-1baulvz e1ht5hpa2"> Веб-камера<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>встроенная </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Разрешение</span><span class="app-catalog-1baulvz e1ht5hpa2"> веб-камеры<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>0.9 Мп</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Тип
+                        веб-камеры</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>со шторкой </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Разъем</span><span class="app-catalog-1baulvz e1ht5hpa2"> наушники/микрофон<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>комбинированный разъем
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Акустическая</span><span class="app-catalog-1baulvz e1ht5hpa2"> система<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>стереодинамики
+                </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Клавиатура ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Язык
+                        клавиатуры</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>русский/английский </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Цвет
+                        клавиатуры</span><span class="app-catalog-1baulvz e1ht5hpa2"> ноутбука<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>черный </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Цифровой
+                        блок</span><span class="app-catalog-1baulvz e1ht5hpa2"> клавиатуры<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>есть </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Подсветка
+                        клавиш</span><span class="app-catalog-1baulvz e1ht5hpa2"> клавиатуры<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>есть </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Цвет
+                        подсветки клавиатуры</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>белая </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Устройства
+                        позиционирования</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>Touchpad </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Батарея ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Тип</span><span class="app-catalog-1baulvz e1ht5hpa2"> батареи<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>Li-Ion </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Количество
+                        ячеек</span><span class="app-catalog-1baulvz e1ht5hpa2"> батареи<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>3 cell </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Энергоемкость</span><span class="app-catalog-1baulvz e1ht5hpa2"> батареи<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>42 Wh </span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Адаптер питания</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Выходная
+                        мощность адаптера питания</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>65 Вт</span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Корпус ноутбука</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Материал</span><span class="app-catalog-1baulvz e1ht5hpa2"> корпуса<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>высококачественный пластик
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Антибактериальное покрытие</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>есть </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Цветовое</span><span class="app-catalog-1baulvz e1ht5hpa2"> решение<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>синий </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Ударопрочный корпус</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>да </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Охлаждение</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>активное </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Размеры</span><span class="app-catalog-1baulvz e1ht5hpa2"> (ШхГхВ)<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>359.7 х 232.5 х 19.9 мм
+                </span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Вес</span><span class="app-catalog-1baulvz e1ht5hpa2"> товара<button
+                            class="app-catalog-zuuz61 eejma9o0"><span class="es9ft6j0 app-catalog-rn0ph8 e14kw8wi0"><svg
+                                    viewBox="0 0 20 20">
+                                    <use href="#info"></use>
+                                </svg></span></button></span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>1.7 кг</span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Упаковка</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Габариты
+                        упаковки (ед) ДхШхВ</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>0.48x0.07x0.285
+                    м</span></span>
+        </div>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0" color="None">Вес
+                        упаковки (ед)</span></span></div><span class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0"
+                color="None"><span>3 кг</span></span>
+        </div>
+    </li>
+    <li class="app-catalog-10ib5jr e1fzyj0h0">
+        <h4 class="e1k1l4a50 eml1k9j0 app-catalog-vgrnu3 e1gjr6xo0" color="Main">Дополнительные характеристики</h4>
+        <div class="app-catalog-xc0ceg e1ht5hpa5">
+            <div class="app-catalog-17zgdib e1ht5hpa4"><span class="e1ht5hpa3 e106ikdt0 app-catalog-61jxe0 e1gjr6xo0"
+                    color="None"><span class="e1ht5hpa1 e106ikdt0 app-catalog-fclnc2 e1gjr6xo0"
+                        color="None">Гарантия</span></span></div><span
+                class="e1ht5hpa0 e106ikdt0 app-catalog-1r8w4u1 e1gjr6xo0" color="None"><span>12 мес. </span></span>
+        </div>
+    </li>
+</ul>
