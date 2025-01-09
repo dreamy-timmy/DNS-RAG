@@ -38,7 +38,7 @@ def save_html_element(url, target_class):
         # Поиск элемента с заданным классом
         target_element = soup.find("ul", class_=target_class)
         price = soup.find("span", class_="e1j9birj0 e106ikdt0 app-catalog-8hy98m e1gjr6xo0")
-        if target_element:
+        if target_element and price:
             parse_html_file(target_element, price, url)
         else:
             print(f"Элемент с классом '{target_class}' не найден.")
@@ -95,9 +95,14 @@ target_class = "app-catalog-rxgulu e1ht5hpa6"
 count = 1
 len_links = len(links)
 # Вызов функции
-for url in links[:3]:
+for url in links[count:12]:
     save_html_element(url + "properties/", target_class)
-    print(f"Обработано ссылок {count}\{len_links}")
+    print(f"\/\Обработано ссылок {count}\{len_links}")
+    if count%10==0:
+        print(f"+--------------------+--------------------+--------------------+Прошёл границу в {count}+--------------------+--------------------+--------------------+")
+        with open('parser\laptop_specifications\citilink_product_data.json', 'w', encoding='utf-8') as f:
+            json.dump(product_data, f, ensure_ascii=False, indent=4)
+        product_data = []
     count+=1
 
 with open('parser\laptop_specifications\citilink_product_data.json', 'w', encoding='utf-8') as f:
