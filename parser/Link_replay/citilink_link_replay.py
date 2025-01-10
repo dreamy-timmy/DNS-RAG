@@ -143,7 +143,7 @@ with open('parser/File_save/citilink_product_urls.txt', 'r', encoding='utf-8') a
     links = [line.strip() for line in file]
 target_class = "app-catalog-rxgulu e1ht5hpa6"
 
-count = 188 
+count = 1
 len_links = len(links)
 # Вызов функции
 for url in links[count-1:1001]:

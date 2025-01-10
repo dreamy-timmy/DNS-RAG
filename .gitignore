@@ -171,3 +171,12 @@ cython_debug/
 .pypirc
 
 .html
+
+api_key.txt
+parser/laptop_specifications
+
+docs/laptops1.json
+
+api_key_test_request.py
+
+
