@@ -13,6 +13,12 @@ import requests  # Для обработки ошибок 429
 
 # Функция для сохранения HTML-кода элемента с заданным классом
 def save_html_element(url, target_class):
+    """
+    Загружает страницу с помощью Selenium, извлекает данные элемента с указанным классом и сохраняет их.
+
+    :param url: URL страницы, которую нужно обработать.
+    :param target_class: CSS-класс целевого HTML-элемента для извлечения.
+    """
     start_time = time.time()  # Время начала
     # Настройка Selenium WebDriver
     options = Options()
@@ -58,6 +64,13 @@ def save_html_element(url, target_class):
         print(f"Время выполнения: {end_time - start_time:.4f} секунд")
 
 def parse_html_file(soup, price, url):
+    """
+    Парсит HTML-код страницы, извлекая информацию о товарах и их характеристиках.
+
+    :param soup: Объект BeautifulSoup с HTML-кодом страницы.
+    :param price: Цена товара, извлеченная из HTML.
+    :param url: URL страницы, из которой извлекаются данные.
+    """
     items = soup.find_all('li', class_="app-catalog-10ib5jr e1fzyj0h0")
     
     dicrt_h4 = {}
@@ -110,6 +123,17 @@ def make_request_with_retries(url, retries=5, delay=30):
             attempt += 1
     return None
 
+
+"""
+Основной процесс парсинга:
+1. Чтение списка URL-адресов из файла.
+2. Последовательная обработка страниц:
+   - Загрузка страницы с помощью Selenium.
+   - Извлечение характеристик товаров.
+   - Сохранение данных в JSON-файл каждые 10 обработанных URL.
+3. Обработка ошибок, включая повторные попытки запросов.
+"""
+
 # URL и параметры
 links = []
 product_data = []
@@ -119,7 +143,7 @@ with open('parser/File_save/citilink_product_urls.txt', 'r', encoding='utf-8') a
     links = [line.strip() for line in file]
 target_class = "app-catalog-rxgulu e1ht5hpa6"
 
-count = 1
+count = 188 
 len_links = len(links)
 # Вызов функции
 for url in links[count-1:1001]:
